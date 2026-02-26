@@ -1,5 +1,5 @@
 # -*- mode: cmake -*-
 
-git_subproject(Servus https://github.com/Determtech/DetermEqualizer_Servus master)
-git_subproject(Lunchbox https://github.com/Determtech/DetermEqualizer_Lunchbox.git master)
-git_subproject(  Pression https://github.com/Determtech/DetermEqualizer_Pression.git master)
+git_subproject(Servus https://github.com/DetermLZ/DetermEqualizer_Servus master)
+git_subproject(Lunchbox https://github.com/DetermLZ/DetermEqualizer_Lunchbox.git master)
+git_subproject(  Pression https://github.com/DetermLZ/DetermEqualizer_Pression.git master)
